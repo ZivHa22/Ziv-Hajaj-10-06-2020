@@ -1,0 +1,32 @@
+
+[
+    {
+        "id": 1,
+        "From": "A",
+        "To": "Israeli",
+        "subject": "Israel@gmail.com",
+        "message":"Hello Word Hello WordHello Word1"
+    },
+    {
+        "id": 2,
+        "From": "B",
+        "To": "Israeli",
+        "subject": "Israel@gmail.com",
+        "message":"Hello Word Hello WordHello Word2"
+    },
+    {
+        "id": 3,
+        "From": "C",
+        "To": "Israeli",
+        "subject": "Israel@gmail.com",
+        "message":"Hello Word Hello WordHello Word3"
+    },
+    {
+        "id": 4,
+        "From": "Bob",
+        "To": "Israeli",
+        "subject": "Israel@gmail.com",
+        "message":"Hello Word Hello WordHello Word4"
+    }
+    
+]

@@ -1,0 +1,175 @@
+
+
+body, html {
+    height: 100%;
+    font-family: Montserrat-Regular, sans-serif;
+    background: #009bff;
+}
+.contact1-form{
+    width: 24vw;
+    margin: auto;
+}
+.App{
+    width: 100%;
+    min-height: 100%;
+   
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    margin:1.67vw;
+    width: 35vw;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    justify-content: space-between;
+    padding: 8vw;
+}
+.wrap-feild{
+    position: relative;
+    width: 100%;
+    z-index: 1;
+    margin-bottom: 20px;
+}
+.wrap-btn{
+    display: flex;
+    justify-content: space-between;
+}
+input{
+    padding: 0 1vw;
+    border-radius: 3vw;
+    height: 3vw;
+    width: 100%;
+    background: #e6e6e6;
+    font-family: Montserrat-Bold;
+    font-size: 1.5vw;
+    color: #666666;
+    outline: none;
+}
+textarea{
+    padding: 1vw 1vw;
+    width: 25vw;
+    border-radius: 3vw;
+    height: 10vw;
+    display: block;
+
+    background: #e6e6e6;
+    font-family: Montserrat-Bold;
+    font-size: 1.5vw;
+    color: #666666;
+    outline: none;
+}
+
+.send-btn{
+    min-width: 7vw;
+    height: 2vw;
+    border-radius: 8vw;
+    background: #57b846;
+    font-size: 1.3vw;
+    line-height: 1.5;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 2vw;
+    outline: none;
+}
+
+
+/*  */
+
+/* Style the tab */
+.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 1vw 1.3vw;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab button:hover {
+    background-color: #ddd;
+  }
+  
+  /* Create an active/current tablink class */
+  .tab button.active {
+    background-color: #ccc;
+  }
+  
+  /* Style the tab content */
+  .tabcontent {
+    display: none;
+    padding: 6px 12px;
+    -webkit-animation: fadeEffect 1s;
+    animation: fadeEffect 1s;
+  }
+
+  table{
+    text-align: justify;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 2vw;
+}
+tbody {
+    flex: 1 1 auto;
+    display: block;
+    width: 100%;
+}
+  th{
+    width: 12vw;
+    padding-top: 11.8px;
+    padding-bottom: 11.8px;
+    background-color: #e6f1f9;
+    color: #0072c5;
+    height: 0.8vw;
+    font-weight: 400;
+    text-align: justify;
+  }
+  tr{
+    display: inline-table;
+    width: 100%;
+    height: 1.6vw;
+    border-bottom: .8px solid hsla(0,0%,59.2%,.18);
+  }
+.hide-details {
+    display: none!important;
+    background-color: #ebebeb;
+}
+.show-details {
+  display: inline-table;
+  background-color: #ebebeb;
+}
+.visible-details td {
+    width: 15%;
+}
+.nav-btn{
+  padding: 1vw;
+  display: flex;
+  justify-content: space-around;
+}
+.nav-btn button{
+  background-color: white;
+  border: none;
+  font-size: 1.3vw;
+  cursor: pointer;
+}
+.nav-btn button:hover{
+  background-color: #b1b6e8;
+  color: white;
+}
+.nav-btn button:focus{
+  outline: none;
+}

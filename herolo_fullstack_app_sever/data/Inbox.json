@@ -1,0 +1,45 @@
+
+[
+    {
+        "id": 1,
+        "From": "U",
+        "To": "Israeli",
+        "subject": "Israel@gmail.com",
+        "message":"Hello"
+    },
+    {
+        "id": 2,
+        "From": "I",
+        "To": "Israeli",
+        "subject": "Israel@gmail.com",
+        "message":"Hello"
+    },
+    {
+        "id": 3,
+        "From": "L",
+        "To": "Israeli",
+        "subject": "Israel@gmail.com",
+        "message":"Hello"
+    },
+    {
+        "id": 4,
+        "From": "Z",
+        "To": "Israeli",
+        "subject": "Israel@gmail.com",
+        "message":"Hello"
+    },
+    {
+        "id": 5,
+        "From": "D",
+        "To": "Israeli",
+        "subject": "Israel@gmail.com",
+        "message":"Hi whath up"
+    },
+    {
+        "id": 6,
+        "From": "Israel",
+        "To": "Israeli",
+        "subject": "Israel@gmail.com",
+        "message":"Hi whath up"
+    }
+]
